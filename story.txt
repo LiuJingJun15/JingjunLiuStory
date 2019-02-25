@@ -3,3 +3,5 @@ Bill is a CS student, one day he is doing a programming assignment of CS 400. Th
 He tries everything but for the life of him can't figure out why part of his program gives the wrong results. Bill posts on Piazza, checks if others have had the same issues, and finally goes to lab hours to have someone else take a look at his work.
 
 After hours of frustration and torment, Bill finally figured out that he forgot to put a semicolon after a line of code he wrote. He submitted his code to gradescope and got all 10 out of 10 points. Bill rejoiced with happiness and submitted his assignment a minute before it was due, then proceded to go to bed.
+
+Bill has nightmare. In his dream, the Internet broke down at the very minute and he failed to submit it. He can do nothing but seeing the clock go to 00:00. He wakes up, with a fast heartbeat. After that, Bill decides not to do the assignment at the due date, but start when he get the time, as early as possible. 
