@@ -1,1 +1,3 @@
-Bill is a CS student, one day he is doing a programming assignment of CS 400. The code he writes cannot pass the final test on gradescope. 
+Bill is a CS student, one day he is doing a programming assignment of CS 400. The code he writes cannot pass the final test on gradescope.
+
+He tries everything but for the life of him can't figure out why part of his program gives the wrong results. Bill posts on Piazza, checks if others have had the same issues, and finally goes to lab hours to have someone else take a look at his work.
