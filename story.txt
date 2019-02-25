@@ -1,0 +1,1 @@
+Bill is a CS student, one day he is doing a programming assignment of CS 400. The code he writes cannot pass the final test on gradescope. 
