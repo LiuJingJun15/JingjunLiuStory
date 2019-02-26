@@ -2,7 +2,7 @@ Bill is a CS student, one day he is doing a programming assignment of CS 400. Th
 
 He tries everything but for the life of him can't figure out why part of his program gives the wrong results. Bill posts on Piazza, checks if others have had the same issues, and finally goes to lab hours to have someone else take a look at his work.
 
-He test test see if this input can be pushed.
+He went into the lab and found there was full of people. TAs were busy answering questions while trying to keep the order of the lab. Students were singing and laughing and chatting, and the place was very messy. Bill had to wait for a long time until the next TA becomes available. 
 
 After hours of frustration and torment, Bill finally figured out that he forgot to put a semicolon after a line of code he wrote. He submitted his code to gradescope and got all 10 out of 10 points. Bill rejoiced with happiness and submitted his assignment a minute before it was due, then proceded to go to bed.
 
